@@ -21,6 +21,3 @@ This is a simple Python program that sends desktop notifications at regular inte
 - Plyer library
 - time module
 
----
-
-## 📂 Project Structure
